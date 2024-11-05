@@ -5,7 +5,7 @@ UNSTUDIO
 SEARCH
 Mecanno
 
-CAN
+CANAD
 ### Reimagine
 
 [Reimagine / Home](https://reimagine.ca/)
